@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+	background-image: url("img/wallpaper2you_243659.jpg");
+	background-repeat: no-repeat;
+}
+
+div.title0 {
+	padding: 100px;
+	text-align: center;
+	color: white;
+
+}
+
+div.title1 {
+	font-size: 6ex;
+}
+
+div.title2 {
+	font-size: 6ex;
+}
+
+div.UID {
+	padding: 50px;
+}
